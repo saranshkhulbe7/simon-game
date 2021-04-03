@@ -1,0 +1,45 @@
+*{
+    font-family: 'Press Start 2P', cursive;
+    color: #E7A12D;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+body{
+    background-color: #2b2e4a;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7rem;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.btn-sections{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    border: 10px solid black;
+    margin: 13px;
+    outline: none;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.lock{
+    background-color: #bbbbbb;
+    opacity: 0.5;
+}
